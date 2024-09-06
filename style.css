@@ -1,0 +1,89 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #d1e0ec;
+    color: #da4f4f;
+    margin: 0;
+    padding: 0;
+    direction:rtl;
+    line-height: 1.6;
+}
+
+.header {
+    background-color: #011717;
+    color: #dbcaca;
+    padding: 20px;
+    text-align: center;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 50px;
+    color: #da4f4f;
+}
+
+.header p {
+    font-size: 18px;
+    color: #da4f4f;
+    
+}
+ 
+
+
+.content {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #da4f4f;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(233, 52, 52, 0.973);
+}
+
+.hadith {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #011717
+    ;
+    border-left: 5px solid #da4f4f;
+    border-radius: 5px;
+}
+
+.hadith h3 {
+    margin-top: 0;
+    color: #da4f4f;
+}
+
+.hadith p {
+    margin: 10px 0;
+    font-size: 18px;
+    color: #da4f4f;
+}
+
+.load-more {
+    display: block;
+    width: 100%;
+    padding: 15px;
+    font-size: 18px;
+    color: #da4f4f;
+    background-color: #011717;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.load-more:hover {
+    background-color: #004d40;
+    
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #011717;
+    color: #da4f4f;
+    margin-top: 20px;
+    
+}
+
+footer p {
+    margin: 0;
+}
